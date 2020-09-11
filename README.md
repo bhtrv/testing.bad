@@ -1,2 +1,2 @@
 # testing.bad
-Firs try to upload php project
+First try to upload php project
